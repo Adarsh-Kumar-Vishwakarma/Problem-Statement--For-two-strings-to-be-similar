@@ -27,4 +27,4 @@ Example 4:
 
 Input: s = "badc", t = "baba"
 
-Output: false in Java
+Output: false
